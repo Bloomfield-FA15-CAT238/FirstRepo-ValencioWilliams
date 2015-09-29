@@ -6,3 +6,5 @@
 **Bold Text** 
 
 *Italic Text*
+
+**Bold Text and _Italic Text_**
