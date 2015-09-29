@@ -19,6 +19,7 @@
 1. First
   * First and a half
 2. Zero
+  * Dividing by zero is infinty or zero (it depends)
 3. Third
 4. Fourth
 5. Fifth
