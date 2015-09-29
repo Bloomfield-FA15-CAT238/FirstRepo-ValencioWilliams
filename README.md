@@ -7,4 +7,16 @@
 
 *Italic Text*
 
-**Bold Text and _Italic Text_**
+**_Bold Text and Italic Text_**
+
+*Third
+*Fifth
+*Second
+*First
+*Fourth
+
+1. First
+2. Second
+3. Third
+4. Fourth
+5. Fifth
