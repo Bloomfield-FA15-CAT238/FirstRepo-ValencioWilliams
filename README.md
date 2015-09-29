@@ -9,12 +9,15 @@
 
 **_Bold Text and Italic Text_**
 
-+Third
+*Third
 
-+Fifth
-+Zero
-+First
-+Fourth
+*Fifth
+
+*Zero
+
+*First
+
+*Fourth
 
 1. First
 2. Second
