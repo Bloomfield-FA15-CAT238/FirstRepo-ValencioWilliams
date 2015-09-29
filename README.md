@@ -16,10 +16,10 @@
 * Fourth
 
 
-1. First
-  * First and a half
-2. Zero
+1. Zero
   * Dividing by zero is infinty or zero (it depends)
+2. First
+  * Second, because Zero is first
 3. Third
 4. Fourth
 5. Fifth
