@@ -2,5 +2,5 @@
 ## Heading 2
 ### Heading 3
 > Blockquotes
-**Bold** 
-**Italic**
+**Bold Text** 
+*Italic Text*
