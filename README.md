@@ -16,8 +16,8 @@
 * Fourth
 
 
-1. First  
-* First and a half
+1. First
+  * First and a half
 2. Zero
 3. Third
 4. Fourth
