@@ -26,4 +26,4 @@
 
 [Just a simple song](https://www.youtube.com/watch?v=cUbFzEMQ2Fs)
 
-![alt text]([IMG]http://i60.tinypic.com/8zdz5j.jpg[/IMG])
+![alt text](<a href="http://tinypic.com?ref=8zdz5j" target="_blank"><img src="http://i60.tinypic.com/8zdz5j.jpg" border="0" alt="Image and video hosting by TinyPic"></a>)
