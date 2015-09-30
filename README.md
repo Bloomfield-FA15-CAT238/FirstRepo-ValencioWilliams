@@ -27,3 +27,4 @@
 [Just a simple song](https://www.youtube.com/watch?v=cUbFzEMQ2Fs)
 
 ![alt text](http://oi60.tinypic.com/8zdz5j.jpg)
+~~A stupid image I drew for homework that had like 90 mistakes in it~~
