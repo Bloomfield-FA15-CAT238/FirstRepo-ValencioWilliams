@@ -36,6 +36,7 @@ Delete the above image | Redraw the above image | Draw anything else but the abo
 :japanese_ogre: ~~But I hate emojis T.T~~
 
 *References*
-  *http://www.iemoji.com/* Because I don't use emojis_
+> *http://www.iemoji.com/* Because I don't use emojis
+> *https://gist.github.com/howar31/5963000*
 
 
