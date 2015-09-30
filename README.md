@@ -29,6 +29,8 @@
 ![alt text](http://oi60.tinypic.com/8zdz5j.jpg)
 ~~A stupid image I drew for homework that had like 90 mistakes in it~~
 
-Task 1 | Task 2 | Task 3
-Delete the above image| Sketch it | RePaint it
+Task 1| Task 2 | Task 3
+--- | --- | ---
+Delete the above image | Redraw the above image | Draw anything else but the above image ever again
+
 
