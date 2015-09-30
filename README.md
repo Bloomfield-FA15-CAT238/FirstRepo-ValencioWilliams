@@ -33,6 +33,6 @@ Task 1| Task 2 | Task 3
 --- | --- | ---
 Delete the above image | Redraw the above image | Draw anything else but the above image ever again
 
-:japanese_ogre: ~~But I hate emojis T.T~~
+:japanese_ogre: ~~But I hate emojis TT.TT~~
 
 
